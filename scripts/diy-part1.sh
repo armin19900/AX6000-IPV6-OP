@@ -16,3 +16,12 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+./scripts/feeds update -a && ./scripts/feeds install -a
+sed -i '$a src-git mosdns https://github.com/sbwml/luci-app-mosdns' feeds.conf.default
+./scripts/feeds update -a
+./scripts/feeds install -a -f -p kenzo
+./scripts/feeds install -a -f -p small
+
+./scripts/feeds uninstall luci-app-mosdns mosdns v2ray-geodata
+./scripts/feeds install -f -p mosdns mosdns luci-app-mosdns
+find ./ -name v2ray-geodata | xargs rm -rf
