@@ -47,114 +47,61 @@ HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
 美亞電影台(HK),https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
 TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
 TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
-http://111.56.90.5/000000000000/5000000004000002226/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
-http://111.56.90.5/000000000000/6000000001000029752/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-1" tvg-logo="https://epg.112114.xyz/logo/CCTV-1.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-1
-http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-2
-http://111.56.90.5/000000000000/1000000001000012442/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-2
-http://111.56.90.5/000000000000/6000000001000014161/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-2" tvg-logo="https://epg.112114.xyz/logo/CCTV-2.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-2
-http://111.56.90.5/000000000000/1000000001000023315/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-3" tvg-logo="https://epg.112114.xyz/logo/CCTV-3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-3
-http://111.56.90.5/000000000000/6000000001000022313/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-3" tvg-logo="https://epg.112114.xyz/logo/CCTV-3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-3
-http://111.56.90.5/000000000000/1000000005000265003/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-3" tvg-logo="https://epg.112114.xyz/logo/CCTV-3.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-3
-http://111.56.90.5/000000000000/1000000001000011218/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
-http://111.56.90.5/000000000000/5000000011000031102/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
-http://111.56.90.5/000000000000/1000000002000031664/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-4" tvg-logo="https://epg.112114.xyz/logo/CCTV-4.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-4
-http://111.56.90.5/000000000000/1000000005000265004/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
-http://111.56.90.5/000000000000/1000000001000004794/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
-http://111.56.90.5/000000000000/1000000005000265005/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-5" tvg-logo="https://epg.112114.xyz/logo/CCTV-5.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5
-http://111.56.90.5/000000000000/6000000001000016431/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.xyz/logo/CCTV-5+.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5+
-http://111.56.90.5/000000000000/6000000001000015875/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.xyz/logo/CCTV-5+.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5+
-http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-5+" tvg-logo="https://epg.112114.xyz/logo/CCTV-5+.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-5+
-http://111.56.90.5/000000000000/1000000001000020505/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV-6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-6
-http://111.56.90.5/000000000000/6000000001000004574/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV-6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-6
-http://111.56.90.5/000000000000/1000000005000265006/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-6" tvg-logo="https://epg.112114.xyz/logo/CCTV-6.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-6
-http://111.56.90.5/000000000000/1000000001000001737/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-7
-http://111.56.90.5/000000000000/6000000001000009055/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-7
-http://111.56.90.5/000000000000/1000000005000265007/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-7" tvg-logo="https://epg.112114.xyz/logo/CCTV-7.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-7
-http://111.56.90.5/000000000000/1000000001000024341/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-8" tvg-logo="https://epg.112114.xyz/logo/CCTV-8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8
-http://111.56.90.5/000000000000/6000000001000001070/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-8" tvg-logo="https://epg.112114.xyz/logo/CCTV-8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8
-http://111.56.90.5/000000000000/1000000005000265008/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-8" tvg-logo="https://epg.112114.xyz/logo/CCTV-8.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-8
-http://111.56.90.5/000000000000/1000000001000003736/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-9
-http://111.56.90.5/000000000000/6000000001000032162/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-9
-http://111.56.90.5/000000000000/1000000005000265009/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-9" tvg-logo="https://epg.112114.xyz/logo/CCTV-9.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-9
-http://111.56.90.5/000000000000/1000000001000014583/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-10" tvg-logo="https://epg.112114.xyz/logo/CCTV-10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-10
-http://111.56.90.5/000000000000/5000000004000012827/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-10" tvg-logo="https://epg.112114.xyz/logo/CCTV-10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-10
-http://111.56.90.5/000000000000/1000000005000265010/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-10" tvg-logo="https://epg.112114.xyz/logo/CCTV-10.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-10
-http://111.56.90.5/000000000000/1000000001000023734/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-11" tvg-logo="https://epg.112114.xyz/logo/CCTV-11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-11
-http://111.56.90.5/000000000000/5000000011000031106/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-11" tvg-logo="https://epg.112114.xyz/logo/CCTV-11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-11
-http://111.56.90.5/000000000000/1000000005000265011/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-11" tvg-logo="https://epg.112114.xyz/logo/CCTV-11.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-11
-http://111.56.90.5/000000000000/1000000002000019789/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-12" tvg-logo="https://epg.112114.xyz/logo/CCTV-12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-12
-http://111.56.90.5/000000000000/6000000001000022586/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-12" tvg-logo="https://epg.112114.xyz/logo/CCTV-12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-12
-http://111.56.90.5/000000000000/1000000005000265012/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-12" tvg-logo="https://epg.112114.xyz/logo/CCTV-12.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-12
-http://111.56.90.5/000000000000/1000000001000032494/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV-13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-13
-http://111.56.90.5/000000000000/5000000011000031108/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV-13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-13
-http://111.56.90.5/000000000000/1000000005000265101/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-13" tvg-logo="https://epg.112114.xyz/logo/CCTV-13.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-13
-http://111.56.90.5/000000000000/1000000002000021303/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-14" tvg-logo="https://epg.112114.xyz/logo/CCTV-14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-14
-http://111.56.90.5/000000000000/5000000004000006673/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-14" tvg-logo="https://epg.112114.xyz/logo/CCTV-14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-14
-http://111.56.90.5/000000000000/1000000005000265013/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-14" tvg-logo="https://epg.112114.xyz/logo/CCTV-14.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-14
-http://111.56.90.5/000000000000/1000000001000008170/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV-15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-15
-http://111.56.90.5/000000000000/5000000011000031109/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV-15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-15
-http://111.56.90.5/000000000000/1000000005000265014/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-15" tvg-logo="https://epg.112114.xyz/logo/CCTV-15.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-15
-http://111.56.90.5/000000000000/1000000002000008163/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-16" tvg-logo="https://epg.112114.xyz/logo/CCTV-16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-16
-http://111.56.90.5/000000000000/5000000008000023254/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-16" tvg-logo="https://epg.112114.xyz/logo/CCTV-16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-16
-http://111.56.90.5/000000000000/1000000006000233001/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-16" tvg-logo="https://epg.112114.xyz/logo/CCTV-16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-16
-http://111.56.90.5/000000000000/1000000006000233002/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-17" tvg-logo="https://epg.112114.xyz/logo/CCTV-17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-17
-http://111.56.90.5/000000000000/1000000005000056836/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-17" tvg-logo="https://epg.112114.xyz/logo/CCTV-17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-17
-http://111.56.90.5/000000000000/1000000005000265015/1.m3u8
-#EXTINF:-1 group-title="🔥[A三网]央卫视直播" tvg-name="CCTV-17" tvg-logo="https://epg.112114.xyz/logo/CCTV-17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV-17
-http://111.56.90.5/000000000000/1000000006000268004/1.m3u8
+央卫CCTV,#genre#
+CCTV-1,http://111.56.90.5/000000000000/5000000004000002226/1.m3u8
+CCTV-1,http://111.56.90.5/000000000000/6000000001000029752/1.m3u8
+CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+CCTV-2,http://111.56.90.5/000000000000/1000000001000012442/1.m3u8
+CCTV-2,http://111.56.90.5/000000000000/6000000001000014161/1.m3u8
+CCTV-2,http://111.56.90.5/000000000000/1000000001000023315/1.m3u8
+CCTV-3,http://111.56.90.5/000000000000/6000000001000022313/1.m3u8
+CCTV-3,http://111.56.90.5/000000000000/1000000005000265003/1.m3u8
+CCTV-3,http://111.56.90.5/000000000000/1000000001000011218/1.m3u8
+CCTV-4,http://111.56.90.5/000000000000/5000000011000031102/1.m3u8
+CCTV-4,http://111.56.90.5/000000000000/1000000002000031664/1.m3u8
+CCTV-4,http://111.56.90.5/000000000000/1000000005000265004/1.m3u8
+CCTV-5,http://111.56.90.5/000000000000/1000000001000004794/1.m3u8
+CCTV-5,http://111.56.90.5/000000000000/1000000005000265005/1.m3u8
+CCTV-5,http://111.56.90.5/000000000000/6000000001000016431/1.m3u8
+CCTV-5+,http://111.56.90.5/000000000000/6000000001000015875/1.m3u8
+CCTV-5+,http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
+CCTV-5+,http://111.56.90.5/000000000000/1000000001000020505/1.m3u8
+CCTV-6,http://111.56.90.5/000000000000/6000000001000004574/1.m3u8
+CCTV-6,http://111.56.90.5/000000000000/1000000005000265006/1.m3u8
+CCTV-6,http://111.56.90.5/000000000000/1000000001000001737/1.m3u8
+CCTV-7,http://111.56.90.5/000000000000/6000000001000009055/1.m3u8
+CCTV-7,http://111.56.90.5/000000000000/1000000005000265007/1.m3u8
+CCTV-7,http://111.56.90.5/000000000000/1000000001000024341/1.m3u8
+CCTV-8,http://111.56.90.5/000000000000/6000000001000001070/1.m3u8
+CCTV-8,http://111.56.90.5/000000000000/1000000005000265008/1.m3u8
+CCTV-8,http://111.56.90.5/000000000000/1000000001000003736/1.m3u8
+CCTV-9,http://111.56.90.5/000000000000/6000000001000032162/1.m3u8
+CCTV-9,http://111.56.90.5/000000000000/1000000005000265009/1.m3u8
+CCTV-9,http://111.56.90.5/000000000000/1000000001000014583/1.m3u8
+CCTV-10,http://111.56.90.5/000000000000/5000000004000012827/1.m3u8
+CCTV-10,http://111.56.90.5/000000000000/1000000005000265010/1.m3u8
+CCTV-10,http://111.56.90.5/000000000000/1000000001000023734/1.m3u8
+CCTV-11,http://111.56.90.5/000000000000/5000000011000031106/1.m3u8
+CCTV-11,http://111.56.90.5/000000000000/1000000005000265011/1.m3u8
+CCTV-11,http://111.56.90.5/000000000000/1000000002000019789/1.m3u8
+CCTV-12,http://111.56.90.5/000000000000/6000000001000022586/1.m3u8
+CCTV-12,http://111.56.90.5/000000000000/1000000005000265012/1.m3u8
+CCTV-12,http://111.56.90.5/000000000000/1000000001000032494/1.m3u8
+CCTV-13,http://111.56.90.5/000000000000/5000000011000031108/1.m3u8
+CCTV-13,http://111.56.90.5/000000000000/1000000005000265101/1.m3u8
+CCTV-13,http://111.56.90.5/000000000000/1000000002000021303/1.m3u8
+CCTV-14,http://111.56.90.5/000000000000/5000000004000006673/1.m3u8
+CCTV-14,http://111.56.90.5/000000000000/1000000005000265013/1.m3u8
+CCTV-14,http://111.56.90.5/000000000000/1000000001000008170/1.m3u8
+CCTV-15,http://111.56.90.5/000000000000/5000000011000031109/1.m3u8
+CCTV-15,http://111.56.90.5/000000000000/1000000005000265014/1.m3u8
+CCTV-15,http://111.56.90.5/000000000000/1000000002000008163/1.m3u8
+CCTV-16,http://111.56.90.5/000000000000/5000000008000023254/1.m3u8
+CCTV-16,http://111.56.90.5/000000000000/1000000006000233001/1.m3u8
+CCTV-16,http://111.56.90.5/000000000000/1000000006000233002/1.m3u8
+CCTV-17,http://111.56.90.5/000000000000/1000000005000056836/1.m3u8
+CCTV-17,http://111.56.90.5/000000000000/1000000005000265015/1.m3u8
+CCTV-17,http://111.56.90.5/000000000000/1000000006000268004/1.m3u8
 体育频道,#genre#
 CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
