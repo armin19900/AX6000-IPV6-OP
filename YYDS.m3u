@@ -27,7 +27,7 @@ TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,https://test.19891230.eu.org/hk/TVB-Plus/index.m3u8
-TVB PLUS,https://hls.iill.top/api/TVB-Plus/index.m3u8
+TVB Plus,https://hls.iill.top/api/TVB-Plus/index.m3u8
 TVB Plus,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-tvbplus
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8#https://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
 TVB Plus,http://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
@@ -43,45 +43,44 @@ TVB Plus,http://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=f9c0064937c88a1c268b6a696e7abd4a
 CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 CCTV5,http://192.151.150.154/live/cctv5hd.m3u8
-CCTV5,https://iptv.catvod.com/migu?id=641886683&token=d7791cadf2bae27f96dcd6f43eb16ef8
-CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=2&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=3&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=4&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=5&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV5,https://iptv.catvod.com/catvod?id=CCTV5%E4%BD%93%E8%82%B2&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
+CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=1&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=2&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=3&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=4&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=5&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=6&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV5,https://iptv.catvod.com/catvod?id=CCTV5&line=7&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
 CCTV8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 CCTV8,http://192.151.150.154/live/cctv8hd.m3u8
-CCTV8,https://iptv.catvod.com/migu?id=624878356&token=1e7059abd32574326a65bcd439065d61
-CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=2&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=3&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=4&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=5&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV8,https://iptv.catvod.com/catvod?id=cctv8k%E8%B6%85%E9%AB%98%E6%B8%85&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV8,https://iptv.catvod.com/catvod?id=CCTV-8%E9%AB%98%E6%B8%85&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV8,https://iptv.catvod.com/catvod?id=CCTV-8K&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
+CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=1&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=2&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=3&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=4&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=5&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=6&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV8,https://iptv.catvod.com/catvod?id=CCTV8&line=7&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV8,https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=2&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV8,https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=4&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
 CCTV13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
 CCTV13,http://192.151.150.154/live/cctv13hd.m3u8
-CCTV13,https://iptv.catvod.com/migu?id=608807423&token=5bb13a28102adae55040cf9ea63355ba
-CCTV13,https://iptv.catvod.com/catvod?id=CCTV-13%E9%AB%98%E6%B8%85&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=2&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=3&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=4&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=5&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-CCTV13,https://iptv.catvod.com/catvod?id=CCTV13%E6%96%B0%E9%97%BB&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-湖南卫视,http://192.151.150.154/live/hnwshd.m3u8
-海南卫视,https://iptv.catvod.com/migu?id=947472502&token=79aefd417843864511bac253d251651d
-湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
-湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=2&token=2d7b564b6a4e457482355ab4b589053e235d5980f84af2ca8f6dc12da8a5185e
+CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=1&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=2&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=3&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=4&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=5&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=6&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV13,https://iptv.catvod.com/catvod?id=CCTV13&line=7&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV13,https://iptv.catvod.com/catvod?id=CCTV13%E6%96%B0%E9%97%BB&line=1&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+CCTV13,https://iptv.catvod.com/catvod?id=CCTV13%E6%96%B0%E9%97%BB&line=2&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=1&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+湖南卫视,https://iptv.catvod.com/catvod?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&line=2&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
 湖南卫视,http://jxyxnk.x3322.net:4022/udp/239.252.219.201:5140
 湖南卫视,http://180.105.84.25:4000/udp/239.49.8.12:9418
 湖南卫视,http://117.8.143.208:4022/udp/225.1.1.114:5002
 湖南卫视,http://home.wscxy.fun:30100/udp/233.18.204.86:5140
-广东卫视,https://iptv.catvod.com/migu?id=608831231&token=5a0a4fe0a95f4d89572a3cf554e0e089
-广东卫视,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1&token=01ae5ccb82f294d756cc2cbd9ed901d264988a6f811cc4c9aa70767f4328da4f
-广东卫视,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2&token=01ae5ccb82f294d756cc2cbd9ed901d264988a6f811cc4c9aa70767f4328da4f
+广东卫视,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=1&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+广东卫视,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=2&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
+广东卫视,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&line=3&token=0b92b2b49011966f79afdee009f28b5164c3a70773aea7b2b1c82859d8f4206a
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
