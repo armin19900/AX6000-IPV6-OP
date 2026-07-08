@@ -1,5 +1,4 @@
 常用频道,#genre#
-测试,http://120.234.44.98:18180/TV00000000000000000031@HHZT
 有线新闻,https://cdn.qd.je/163189/hoy78
 有线新闻,https://flv-play.clouda.com/live/78-e4PtDaF6AQrXOW1HJdARYjkmCofuwG9ji2PmlEksbi2eNlD9bKYlXzr8qIRPHOojTPZVOkFUeIhv3IurfpWHPsRv.flv
 有线新闻,https://rtmp.play.live.tieba.com/live/HOY78-WvEbhMayd2aVnOdatq1oewWTaMD0pZ78fL7ZKMVKgz3fOpwpicwNDX1aA0rPmQcsnwsu5XLGBto69MHmPC9GwXOt.flv
@@ -13,13 +12,13 @@ Now新闻台,http://cdn.163189.xyz/163189/now
 Now新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 翡翠台,https://cdn.qd.je/163189/fct2
 翡翠台,https://cdn.qd.je/163189/fctvtt
+翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台,https://cdn.qd.je/163189/fct4k
 翡翠台,http://49.232.143.177:80/pyxg/export.php?id=4&key=****
 翡翠台,https://tv123.cc.cd/live.php?ch=0b6800402068
 翡翠台,https://cdn.qd.je/163189.php?id=fct
 翡翠台,https://cdn.qd.je/163189/fct
 翡翠台,http://cdn.qd.je/163189/fct
-翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
 翡翠台,https://live.catvod.com/?id=L2xyL2RMUU9ubG1saldneXpDcWI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD0wYTg4ODIxMiZjbj0xZTBkNTg0YyZjcD0yZjE5OTA1MSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=114d5e2fe0c09b6cac54f7e2ee14e5f1
 翡翠台,https://flv-play.clouda.com/live/fc-0StF0ynwlSa7hrv7OF4easlc5FZmZpEjC6AeAaCOogpDCWWipXDZFKTn9DvV3WQiAHjYtcE6ZqmDFmnvRAARmtRA.flv
@@ -30,7 +29,7 @@ Now新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,https://cdn6.163189.xyz/163189/fct
 翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,https://test.19891230.eu.org/hk/J/index.m3u8
+翡翠台,,http://rihou.cc:555/tv/[Pd]无线翡4K
 翡翠台,https://hls.163189.xyz/163189/0205c25f6b2ce920
 翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
 无线新闻,https://tv123.cc.cd/live.php?ch=3e7266202069
@@ -42,7 +41,7 @@ Now新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
 无线新闻,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
 无线新闻,http://120.234.44.98:18180/TV00000000000000000034@HHZT
 无线新闻,https://live.catvod.com/?id=L2xyL2RMUU9ubG1sald5dXhVbnl2VWdnVlI2YjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTBhODg4MjEyJmNuPTFlMGQ1ODRjJmNwPTJiNzAxNTUyJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=114d5e2fe0c09b6cac54f7e2ee14e5f1
-无线新闻,http://push.cdn1.hls123.de:8080/streams/n66wwnx3l7i/index.m3u8
+无线新闻,http://rihou.cc:555/tv/[Pd]无线新闻
 无线新闻,http://r.jdshipin.com/CkuBd
 无线新闻,https://cdn6.163189.xyz/163189/wxxw
 无线新闻,https://test.19891230.eu.org/hk/C/index.m3u8
@@ -50,7 +49,7 @@ TVB Plus,https://cdn.qd.je/163189/tvbp
 TVB Plus,https://cdn.qd.je/163189/tvbpvtt
 TVB Plus,http://49.232.143.177:80/pyxg/export.php?id=5&key=****
 TVB Plus,https://tv123.cc.cd/live.php?ch=38a492192070
-TVB Plus,https://live.catvod.com/?id=L2xyL2RMUU9ubG1saldHN1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0wYTg4ODIxMiZjbj0xZTBkNTg0YyZjcD0wOTkxMjFlNCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=114d5e2fe0c09b6cac54f7e2ee14e5f1
+TVB Plus,,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,https://rtmp.play.live.tieba.com/live/TVB-pxOP5GI9gofTUrz4hnKtFMs9XXakhmkDaGtIw24rGHulDYZ0m0dsVV5rR9xFpnZiKAGbqwyV6AXV0lu2DiA9jBfu.flv
 TVB Plus,https://flv-play.clouda.com/live/tvb-ANVKKSG8EqTMWHOoZD839tisRxzdMFU6jaCyfB1S3xW56FBLMzwcu0EpvHfhQrT5RlhpAXV0MB4Erg9yBSQYlZWV.flv
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
@@ -69,15 +68,15 @@ TVB Plus,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-tvbplus
 NOW616粤英语4K,http://iptv.4666888.xyz/fifa/FYTV_FIFA.php?id=1
 NOW616粤英语4K,http://iptv.4666888.xyz/fifa/FYTV_FIFA.php?id=2
 凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰中文,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰中文,https://flv-play.clouda.com/live/fhzw-6zSJoUiicyU3ovDlMvflVRLQlVCMRCARnyJ0NPlfcs3eWJNeJSDRMAz4VgeQV3Diy6.flv
 凤凰中文,http://120.234.44.98:18180/TV00000000000000000008@HHZT
 凤凰资讯,https://cdn.qd.je/163189/fhzx
-凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰资讯,https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv
 凤凰资讯,http://120.234.44.98:18180/TV00000000000000000009@HHZT
 凤凰香港,https://cdn.qd.je/163189/fhhk
-凤凰香港,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 凤凰香港,https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZIfuPtYq1enmIhy43vWcUaaPf4U2xRRWNGOXX5BiusMXxxQ.flv
 凤凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT
 凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
