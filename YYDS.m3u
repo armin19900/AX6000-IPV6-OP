@@ -76,6 +76,7 @@ NOW616粤英语4K,http://iptv.4666888.xyz/fifa/FYTV_FIFA.php?id=2
 凤凰香港,http://122.246.12.140:80/qctv.fengshows.cn/live/0701phk72.m3u8
 新动漫,https://iptv.catvod.com/migu?id=961930269&token=f9c0064937c88a1c268b6a696e7abd4a
 CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05
+CCTV5,http://27.41.245.153:12315/hls/5/index.m3u8
 CCTV5,http://39.175.52.28:2026/IPTV.php?id=CCTV5
 CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV5,http://42.193.195.163:3000/641886683
@@ -93,6 +94,7 @@ CCTV5,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_47105181
 CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 CCTV5,http://192.151.150.154/live/cctv5hd.m3u8
 CCTV8,https://cdn.qd.je/163189/cctv8
+CCTV8,http://27.41.245.153:12315/hls/8/index.m3u8
 CCTV8,http://39.175.52.28:2026/IPTV.php?id=CCTV8
 CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
 CCTV8,http://go.bkpcp.top/mg/cctv8
@@ -108,8 +110,9 @@ CCTV8,http://117.15.157.81:1234/624878356
 CCTV8,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv08dsj
 CCTV8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 CCTV8,http://192.151.150.154/live/cctv8hd.m3u8
-http://39.175.52.28:2026/IPTV.php?id=CCTV13
 CCTV13,CCTV13,https://cdn.qd.je/163189/cctv13
+CCTV13,http://27.41.245.153:12315/hls/13/index.m3u8
+CCTV13,http://39.175.52.28:2026/IPTV.php?id=CCTV13
 CCTV13,https://cdn.qd.je/163189/cctv13-2
 CCTV13,http://rihou.cc:555/tv/[mg]CCTV-13
 CCTV13,http://42.193.195.163:3000/608807423
