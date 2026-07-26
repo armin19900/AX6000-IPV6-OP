@@ -50,7 +50,7 @@ TVB Plus,https://cdn.qd.je/163189/tvbpvtt
 凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8
-新动漫,https://iptv.catvod.com/catvod?id=%E6%96%B0%E5%8A%A8%E6%BC%AB&line=1&token=eb38eea41d907133b8aa703478d0be972b8b890b5095b99e03a4ec5cdccd9b52
+CCTV5,http://wfenf.x3322.net:7788/641886683
 CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV5,http://42.193.195.163:3000/641886683
@@ -60,6 +60,7 @@ CCTV5,https://cdn.qd.je/163189/cctv5-2
 CCTV5,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05ty
 CCTV5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 CCTV5,http://192.151.150.154/live/cctv5hd.m3u8
+CCTV8,http://wfenf.x3322.net:7788/624878356
 CCTV8,https://cdn.qd.je/163189/cctv8
 CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
 CCTV8,http://go.bkpcp.top/mg/cctv8
@@ -69,6 +70,7 @@ CCTV8,http://117.15.157.81:1234/624878356
 CCTV8,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv08dsj
 CCTV8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 CCTV8,http://192.151.150.154/live/cctv8hd.m3u8
+CCTV13,http://wfenf.x3322.net:7788/608807423
 CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV13,https://cdn.qd.je/163189/cctv13
 CCTV13,https://cdn.qd.je/163189/cctv13-2
