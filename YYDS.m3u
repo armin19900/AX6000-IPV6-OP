@@ -3,6 +3,7 @@
 有线新闻,http://rihou.cc:555/tv/[Pd]有线新闻
 有线新闻,http://120.234.44.98:18180/TV00000000000000000078@HHZT
 Now新闻台,https://cdn.qd.je/163189.php?id=now
+Now新闻台,http://cdn.123.rr.kg/163189/now
 Now新闻台,https://cdn.163189.xyz/163189/now
 Now新闻台,http://cdn.163189.xyz/163189/now
 Now新闻台,http://rihou.cc:555/tv/[Mt]Now新闻
@@ -32,6 +33,7 @@ TVB Plus,https://cdn.qd.je/163189.php?id=tvbp
 TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
 TVB Plus,https://cdn.qd.je/163189/tvbp
 TVB Plus,https://cdn.qd.je/163189/tvbpvtt
+TVB Plus,https://smt.1678520.xyz/163189/tvbp
 翡翠台4K,https://cdn.qd.je/163189/fct4k
 翡翠台4K,http://rihou.cc:555/tv/[Pd]无线翡4K
 凤凰中文,http://c.123.rr.kg/163189/fhzw
@@ -100,8 +102,10 @@ CCTV13,http://192.151.150.154/live/cctv13hd.m3u8
 广东卫视,http://go.bkpcp.top/mg/gdws 
 明珠台,http://120.234.44.98:18180/TV00000000000000000035@HHZT
 ViuTV,https://cdn.qd.je/163189/viu
+ViuTV,https://cdn.qd.je/163189.php?id=viu
 ViuTV,http://120.234.44.98:18180/TV00000000000000000037@HHZT
 ViuTVsix,https://cdn.qd.je/163189/viu6
+ViuTVsix,https://cdn.qd.je/163189.php?id=viu6
 ViuTVsix,http://120.234.44.98:18180/TV00000000000000000084@HHZT
 ViuTVsix,https://cdn10.163189.xyz/163189/dcd63a47-61e9-4bae-8af3-fca15f2d002b/
 星河频道,https://cdn10.163189.xyz/163189/182d1bd5-0a1a-4db9-bc5b-8a8a74f3869a/
@@ -943,7 +947,29 @@ CCTV女性时尚,http://hao6688.3322.org:30066/stream/channelid/743000278?ticket
 浙江卫视,http://hao6688.3322.org:30066/stream/channelid/1516511437?ticket=26c48d56769e6741a3529f0891a0a568785f1d53&profile=pass
 浙江卫视,http://hao6688.3322.org:30066/stream/channelid/1991276227?ticket=b24331935685500048e648b58e3e4db952ac510d&profile=pass
 
-香港mytv,#genre#
+mytv需科学,#genre#
+翡翠台,http://cdn6.123.rr.kg/163189/fct
+翡翠台,http://cdn3.123.rr.kg/stream/tvb/fct/
+翡翠台,http://cdn10.123.rr.kg/163189/fct/
+翡翠台,http://o11.163189.xyz/stream/tvb/fct4k/
+TVB Plus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
+TVB Plus,http://cdn10.123.rr.kg/163189/tvbp/
+TVB Plus,https://smt.1678520.xyz/163189/tvbp
+无线新闻,http://cdn6.123.rr.kg/163189/wxxw
+无线新闻,http://cdn6.123.rr.kg/163189/wxxwt
+明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
+明珠台,http://cdn10.123.rr.kg/163189/mzt/
+Now新闻台,http://cdn.123.rr.kg/163189/now
+ViuTV,http://cdn10.123.rr.kg/163189/viu/
+ViuTVsix,http://cdn10.123.rr.kg/163189/viu6/
+凤凰中文,http://cdn6.123.rr.kg/163189/fhzw
+凤凰资讯,http://cdn6.123.rr.kg/163189/fhzx
+凤凰香港,http://cdn6.123.rr.kg/163189/fhhk
+HOY TV,http://cdn.123.rr.kg/163189/hoy
+HOY資訊台,http://cdn.123.rr.kg/163189/hoy78
+HOY國際財經台,https://cdn11.163189.xyz/163189/hoy76
+RTHK31,http://cdn.123.rr.kg/163189/rthk31
+RTHK32,http://cdn.123.rr.kg/163189/rthk32
 翡翠台,http://c.123.rr.kg/163189/fct
 無線新聞台,http://c.123.rr.kg/163189/wxxw
 無線新聞台,http://c.123.rr.kg/163189/wxxwt
