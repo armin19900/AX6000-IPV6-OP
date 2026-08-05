@@ -54,9 +54,8 @@ TVB Plus,http://c.123.rr.kg/163189/tvbp
 凤凰中文,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://123.234.2.58:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://123.234.2.58:80/qctv.fengshows.cn/live/0701phk72.m3u8
-CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv05ty
+CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV5,http://111.8.242.127:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://wfenf.x3322.net:7788/641886683
 CCTV5,http://42.193.195.163:3000/641886683
@@ -64,9 +63,8 @@ CCTV5,https://cdn.qd.je/163189/cctv5
 CCTV5,https://cdn.qd.je/163189/cctv5-2
 CCTV5,http://103.72.172.253:8041/hls/251285191/index.m3u8
 CCTV5,http://192.151.150.154/live/cctv5hd.m3u8
-CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
 CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV8,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv08dsj
+CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
 CCTV8,http://111.8.242.127:9999/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://wfenf.x3322.net:7788/624878356
 CCTV8,https://cdn.qd.je/163189/cctv8
@@ -74,12 +72,11 @@ CCTV8,http://103.72.172.253:8041/hls/269482854/index.m3u8
 CCTV8,http://42.193.195.163:3000/624878356
 CCTV8,http://223.167.209.88:1234/624878356
 CCTV8,http://192.151.150.154/live/cctv8hd.m3u8
-CCTV13,http://rihou.cc:555/tv/[mg]CCTV-13
 CCTV13,http://go.bkpcp.top/mg/cctv13
-CCTV13,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=cctv13xw
-CCTV13,http://111.8.242.127:9999/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://wfenf.x3322.net:7788/608807423
 CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV13,http://rihou.cc:555/tv/[mg]CCTV-13
+CCTV13,http://111.8.242.127:9999/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,https://cdn.qd.je/163189/cctv13
 CCTV13,http://103.72.172.253:8041/hls/318237429/index.m3u8
 CCTV13,https://cdn.qd.je/163189/cctv13-2
