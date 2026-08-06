@@ -58,6 +58,7 @@ CCTV5,http://go.bkpcp.top/mg/cctv5
 CCTV5,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV5,http://111.8.242.127:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://wfenf.x3322.net:7788/641886683
+CCTV5,http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
 CCTV5,http://42.193.195.163:3000/641886683
 CCTV5,https://cdn.qd.je/163189/cctv5
 CCTV5,https://cdn.qd.je/163189/cctv5-2
@@ -67,6 +68,7 @@ CCTV8,http://go.bkpcp.top/mg/cctv8
 CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
 CCTV8,http://111.8.242.127:9999/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://wfenf.x3322.net:7788/624878356
+CCTV8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 CCTV8,https://cdn.qd.je/163189/cctv8
 CCTV8,http://103.72.172.253:8041/hls/269482854/index.m3u8
 CCTV8,http://42.193.195.163:3000/624878356
@@ -78,6 +80,7 @@ CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV13,http://rihou.cc:555/tv/[mg]CCTV-13
 CCTV13,http://111.8.242.127:9999/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,https://cdn.qd.je/163189/cctv13
+CCTV13,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
 CCTV13,http://103.72.172.253:8041/hls/318237429/index.m3u8
 CCTV13,https://cdn.qd.je/163189/cctv13-2
 CCTV13,http://42.193.195.163:3000/608807423
@@ -239,7 +242,24 @@ CCTV17,http://rihou.cc:555/tv/[mg]CCTV-17
 CCTV17,http://go.bkpcp.top/mg/cctv17
 CCTV17,https://cdn.qd.je/163189/cctv17
 CCTV17,http://36.136.11.230:11888/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-
+CCTV1,http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
+CCTV2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+CCTV3,http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
+CCTV4,http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
+CCTV5,http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
+CCTV6,http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
+CCTV7,http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
+CCTV8,http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
+CCTV9,http://bztv.tvbus.cc:8081/cdnlive/cctv9.m3u8
+CCTV10,http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
+CCTV11,http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
+CCTV12,http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
+CCTV13,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
+CCTV14,http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
+CCTV15,http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
+CCTV16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
+CCTV17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
+CCTV5+,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
 
 
 
