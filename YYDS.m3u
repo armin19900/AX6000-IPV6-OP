@@ -95,9 +95,11 @@ CCTV13,http://192.151.150.154/live/cctv13hd.m3u8
 广东卫视,http://rihou.cc:555/tv/[mg]广东卫视
 广东卫视,http://go.bkpcp.top/mg/gdws 
 明珠台,http://120.234.44.98:18180/TV00000000000000000035@HHZT
+ViuTV,https://fast.hidns.vip/163189/viu
+ViuTV,http://120.234.44.98:18180/TV00000000000000000037@HHZT
 ViuTV,https://cdn.qd.je/163189/viu
 ViuTV,https://cdn.qd.je/163189.php?id=viu
-ViuTV,http://120.234.44.98:18180/TV00000000000000000037@HHZT
+ViuTVsix,https://fast.hidns.vip/163189/viu6
 ViuTVsix,https://cdn.qd.je/163189/viu6
 ViuTVsix,https://cdn.qd.je/163189.php?id=viu6
 ViuTVsix,http://120.234.44.98:18180/TV00000000000000000084@HHZT
