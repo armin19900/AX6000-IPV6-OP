@@ -2,23 +2,17 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        "freepatentsonline.com"
-      ],
       "domain_suffix": [
-        ".852851.xyz",
-        ".filegear-sg.me",
-        ".yang-1989.xyz",
-        ".123.rr.kg",
-        ".v1.mk",
-        ".tapcloud.me",
-        ".uuyun.us",
-        ".cg51.com"
-      ],
-      "domain_keyword": [
-        "keyword1",
-        "keyword2"
+        "freepatentsonline.com",
+        "852851.xyz",
+        "filegear-sg.me",
+        "yang-1989.xyz",
+        "123.rr.kg",
+        "v1.mk",
+        "tapcloud.me",
+        "uuyun.us",
+        "cg51.com"
       ]
     }
   ]
-]
+}
